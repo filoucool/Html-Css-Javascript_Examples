@@ -37,7 +37,7 @@
 
 ```
  {Windows Powershell / Command Prompt / Linux}
-  > git clone https://github.com/user/Html-Css-Javascript_Examples.git
+  > git clone https://github.com/filoucool/Html-Css-Javascript_Examples.git
 ```
 
 <ul>
